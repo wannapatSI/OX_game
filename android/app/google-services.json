@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1038179372197",
+    "firebase_url": "https://xo-game-c1cc3-default-rtdb.firebaseio.com",
+    "project_id": "xo-game-c1cc3",
+    "storage_bucket": "xo-game-c1cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038179372197:android:4d7bd86c111c9a16a0514c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tic_tac_toe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038179372197-997lok23apcald4oqdnooagnskte170o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj25xV2ini5wzxFFF8IW6ahygVyFXJ1Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038179372197-997lok23apcald4oqdnooagnskte170o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038179372197-tromgks13o3svvf83ucnv4ajaknko148.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.wannapat.xogame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
